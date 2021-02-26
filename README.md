@@ -1,1 +1,1 @@
-# Deeplearning.ai Neural-Networks-and-Deep-Learning Projects
+# Coursera Neural Networks and Deep Learning Projects
